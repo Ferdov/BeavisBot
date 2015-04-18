@@ -1,4 +1,4 @@
-exports.names = ['.remove', '.rm', '.rmafk', '.rmidle'];
+exports.names = ['.rm'];
 exports.hidden = true;
 exports.enabled = true;
 exports.matchStart = true;

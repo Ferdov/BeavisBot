@@ -1,4 +1,4 @@
-exports.names = [.mv'];
+exports.names = ['.mv'];
 exports.hidden = true;
 exports.enabled = true;
 exports.matchStart = true;

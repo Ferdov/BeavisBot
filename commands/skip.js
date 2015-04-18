@@ -20,7 +20,6 @@ exports.handler = function (data) {
         }
 
         bot.moderateForceSkip();
-        //bot.moderateDeleteChat(data.id);
     }
 };
 

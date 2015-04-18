@@ -1,4 +1,4 @@
-exports.names = ['.info', '.userinfo']
+exports.names = ['.info']
 exports.hidden = false;
 exports.enabled = true;
 exports.matchStart = true;
